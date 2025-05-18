@@ -1,1 +1,0 @@
-is_converge：生成NN运算判断符和NN计算得到的控制量u
